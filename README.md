@@ -1,3 +1,7 @@
+# Description
+
+This repository contains the source code for a github app I made as an internship assignment. It monitors a repository and listens to events like PR opening and re-opening, as well as issue comments created and edited under that PR, and executes the code in the PR upon scanning the '/execute' command in either the title of the PR, or in the comments under that PR.
+
 # github-coderunner
 
 > A GitHub App built with [Probot](https://github.com/probot/probot) that github-coderunner probot app for internship assignment
